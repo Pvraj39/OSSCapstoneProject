@@ -3,7 +3,7 @@
 # Author: [Your Name] | Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Prathmesh Jadhav"        # Fill in your name
+STUDENT_NAME="Prathviraj Chavan"        # Fill in your name
 SOFTWARE_CHOICE="Python"             # Fill in your chosen software
 
 # --- System info ---
